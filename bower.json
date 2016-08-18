@@ -1,0 +1,17 @@
+{
+    "name": "pollerone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Yvonne Sch\u00fcttler"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/pollerone-bower.git"
+    },
+    "description": "Poller One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
